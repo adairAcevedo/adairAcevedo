@@ -40,10 +40,12 @@ performance and reliability problems in production environments.
 **Languages**
 - Elixir
 - SQL
+- Javascript
 
 **Frameworks & Libraries**
 - Phoenix
 - Ecto
+- Vuejs
 
 **Databases**
 - PostgreSQL
@@ -61,7 +63,6 @@ performance and reliability problems in production environments.
 
 ## 📌 What You'll Find Here
 
-- Elixir examples and backend exercises
 - Personal projects and proof-of-concepts
 - Experiments with concurrency and process design
 - Code focused on clarity, robustness, and best practices
