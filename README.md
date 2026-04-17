@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # 👋 Hi, I'm Adair Acevedo
 
-Backend Developer specialized in **Elixir and Phoenix**, with experience building
+Fullstack Developer specialized in **Elixir and Phoenix**, with experience building
 reliable APIs, fintech systems, and data-heavy backend processes.
 I work in remote environments and focus on performance, clarity, and stability.
 
@@ -24,7 +24,7 @@ I work in remote environments and focus on performance, clarity, and stability.
 
 ## 🚀 About Me
 
-- 💻 Backend Developer (Elixir / Phoenix)
+- 💻 FullStack Developer (Elixir / Phoenix / Nodejs / Vuejs)
 - 🌎 Based in Mexico | Open to remote opportunities
 - 🧠 Strong focus on APIs, async jobs, and data processing
 - ⚙️ Experience in fintech platforms and external integrations
@@ -41,14 +41,17 @@ performance and reliability problems in production environments.
 - Elixir
 - SQL
 - Javascript
+- Php
 
 **Frameworks & Libraries**
 - Phoenix
 - Ecto
 - Vuejs
+- Nodejs
 
 **Databases**
 - PostgreSQL
+- MongoDb
 
 **Infrastructure**
 - Docker
